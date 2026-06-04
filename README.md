@@ -1,8 +1,7 @@
 # Cyclistic Bike-Share Usage Analysis
 
 ## Overview
-This project follows the Google Data Analystics, featured on coursera, "Ask/Prepare/Process/Analyze/Share/Act" framework.
-This project analyzes differences in usage patterns between casual riders and annual members to support strategies that could increase annual memberships.
+This project follows the Google Data Analytics Professional Certificate's Ask, Prepare, Process, Analyze, Share, and Act framework to analyze differences in usage patterns between casual riders and annual members to support strategies that could increase annual memberships.
 
 ## Business Task
 How do annual members and casual riders use Cyclistic bikes differently?
